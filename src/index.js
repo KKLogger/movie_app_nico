@@ -1,17 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import Food from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Food />
   </React.StrictMode>,
   document.getElementById('root')
 );
+// Render  함수로  Component를 생성 JSX 개념 !! 자바스크립트와 HMTL 의 결합
+//Render 함수에는 하나의 Component만 넣을 수 있습니다.
+//아래와 같이 render함수를 한번 더 호출하는 방법도 있지만 App.js 에 추가하는 방법도 있습니다.
+// ReactDOM.render(<React.StrictMode><Potato/></React.StrictMode>,document.getElementById('potato'));
+//react application 은 한번에 하나의 component만 rendering 할 수 있다
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
+// JSX -> component에 정보를 보낼 수 있습니다.
