@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movie_app_nico/static/css/main.dd95c4ac.chunk.css",
-    "main.js": "/movie_app_nico/static/js/main.39da7e98.chunk.js",
-    "main.js.map": "/movie_app_nico/static/js/main.39da7e98.chunk.js.map",
+    "main.css": "/movie_app_nico/static/css/main.b7bf4e94.chunk.css",
+    "main.js": "/movie_app_nico/static/js/main.7c5da681.chunk.js",
+    "main.js.map": "/movie_app_nico/static/js/main.7c5da681.chunk.js.map",
     "runtime-main.js": "/movie_app_nico/static/js/runtime-main.4a3f58e5.js",
     "runtime-main.js.map": "/movie_app_nico/static/js/runtime-main.4a3f58e5.js.map",
-    "static/js/2.e076eb3e.chunk.js": "/movie_app_nico/static/js/2.e076eb3e.chunk.js",
-    "static/js/2.e076eb3e.chunk.js.map": "/movie_app_nico/static/js/2.e076eb3e.chunk.js.map",
+    "static/js/2.d613125c.chunk.js": "/movie_app_nico/static/js/2.d613125c.chunk.js",
+    "static/js/2.d613125c.chunk.js.map": "/movie_app_nico/static/js/2.d613125c.chunk.js.map",
     "index.html": "/movie_app_nico/index.html",
-    "static/css/main.dd95c4ac.chunk.css.map": "/movie_app_nico/static/css/main.dd95c4ac.chunk.css.map",
-    "static/js/2.e076eb3e.chunk.js.LICENSE.txt": "/movie_app_nico/static/js/2.e076eb3e.chunk.js.LICENSE.txt"
+    "static/css/main.b7bf4e94.chunk.css.map": "/movie_app_nico/static/css/main.b7bf4e94.chunk.css.map",
+    "static/js/2.d613125c.chunk.js.LICENSE.txt": "/movie_app_nico/static/js/2.d613125c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4a3f58e5.js",
-    "static/js/2.e076eb3e.chunk.js",
-    "static/css/main.dd95c4ac.chunk.css",
-    "static/js/main.39da7e98.chunk.js"
+    "static/js/2.d613125c.chunk.js",
+    "static/css/main.b7bf4e94.chunk.css",
+    "static/js/main.7c5da681.chunk.js"
   ]
 }
